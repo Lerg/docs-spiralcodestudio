@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Spiral Code Studio Documentation
 description: Solar2D plugins and Defold extensions
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/docs-spiralcodestudio" # the subpath of your site, e.g. /blog
 url: "https://docs.spiralcodestudio.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
