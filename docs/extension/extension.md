@@ -1,5 +1,6 @@
 ---
 title: Defold Extensions
+has_children: true
 ---
 
 ## Extensions
